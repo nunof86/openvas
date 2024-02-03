@@ -4,13 +4,13 @@
 
 # Prerequisites
 
-## System Update
+### System Update
 
 ```bash
 sudo apt update && sudo apt full-upgrade -y
 ```
 
-## Curl Installation
+### Curl Installation
 
 ```bash
 sudo apt install curl -y
